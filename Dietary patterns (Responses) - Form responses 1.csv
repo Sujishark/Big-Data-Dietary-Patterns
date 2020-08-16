@@ -1,0 +1,68 @@
+Age,Gender,Diet,normal BMI,junk food,leather,exercise,vitamins,Non-veg foods are costlier ,vegetarian diet is healthier,fewer varieties ,Why non-veg diet?,days-nv,Why vegetarian diet?,Would you eat  next to a a non-vegetarian?
+19,Female,non-vegetarian,Yes,Yes,Yes,No,No,Agree,Disagree,Agree,Taste,5,,
+20,Female,vegetarian,No,No,Yes,Maybe,No,Agree,Agree,Disagree,Taste,3,,
+20,Female,non-vegetarian,Yes,Yes,Yes,No,No,Agree,Disagree,Agree,Taste,4,,
+20,Female,vegan,Yes,Yes,Yes,Yes,Yes,Strongly agree,Agree,Agree,,,For a better health,Yes
+21,Female,vegetarian,Yes,No,Yes,No,No,Strongly agree,Agree,Agree,Taste,4,,
+19,Female,non-vegetarian,Yes,Yes,No,Maybe,No,Disagree,Agree,Disagree,Taste,7,,
+20,Female,non-vegetarian,Yes,Yes,No,No,No,Strongly agree,Disagree,Disagree,Taste,3,,
+20,Female,non-vegetarian,Yes,Yes,Yes,No,Yes,Strongly agree,Agree,Strongly agree,Taste,1,,
+20,Female,non-vegetarian,Yes,Yes,Yes,Maybe,Yes,Agree,Strongly Disagree,Strongly agree,Taste,2,,
+20,Female,non-vegetarian,Yes,Yes,Yes,No,No,Strongly agree,Disagree,Agree,"Taste, Family habits",2,,
+21,Female,vegetarian,Yes,Yes,Yes,Maybe,No,Agree,Agree,Agree,Taste,1,,Yes
+20,Female,non-vegetarian,Yes,Yes,Yes,No,No,Agree,Disagree,Disagree,Family habits,1,,
+20,Female,vegetarian,No,Yes,No,Maybe,Yes,Strongly agree,Strongly agree,Strongly agree,,,Family habits,Yes
+20,Female,vegetarian,Yes,Yes,No,Maybe,Yes,Disagree,Disagree,Strongly disagree,Taste,4,,
+20,Female,non-vegetarian,Yes,Yes,No,No,No,Agree,Disagree,Disagree,"Taste, Family habits",3,,
+20,Female,vegetarian,Yes,Yes,Yes,Maybe,No,Agree,Agree,Agree,Taste,6,,
+20,Female,vegetarian,Yes,Yes,No,Maybe,Yes,Disagree,Agree,Disagree,,0,,
+19,Female,vegetarian,Yes,No,No,No,No,Agree,Disagree,Strongly agree,Taste,6,,
+20,Female,vegetarian,Yes,Yes,Yes,No,No,Agree,Agree,Agree,Vitamins and proteins,2,,
+20,Female,non-vegetarian,Yes,Yes,No,Maybe,No,Disagree,Disagree,Agree,"Taste, Family habits, Protein",5,,Yes
+20,Female,vegetarian,Yes,Yes,No,No,No,Agree,Agree,Strongly disagree,Family habits,1,,
+19,Female,non-vegetarian,Yes,Yes,No,No,No,Agree,Disagree,Disagree,"Taste, Family habits",7,,
+20,Female,non-vegetarian,Yes,Yes,No,Maybe,No,Strongly agree,Agree,Agree,Taste,2,"I don't harm animals, For a better health",No
+20,Female,vegetarian,Yes,Yes,Yes,Maybe,No,Strongly agree,Agree,Disagree,,2,For a better health,Yes
+19,Female,vegetarian,Yes,Yes,Yes,No,No,Agree,Agree,Disagree,Taste,3,,
+20,Female,non-vegetarian,Yes,Yes,Yes,Maybe,No,Agree,Disagree,Disagree,Family habits,7,,
+20,Female,vegetarian,Yes,Yes,Yes,No,No,Agree,Agree,Disagree,"Taste, Weight-gain",1,,
+21,Male,non-vegetarian,No,Yes,No,No,No,Agree,Disagree,Disagree,Family habits,4,For a better health,No
+20,Female,non-vegetarian,Yes,Yes,No,No,Yes,Agree,Agree,Strongly agree,"Taste, Family habits",2,,
+20,Female,non-vegetarian,Yes,Yes,No,No,No,Agree,Disagree,Strongly agree,Taste,7,,Yes
+19,Female,vegetarian,Yes,Yes,Yes,Maybe,No,Agree,Agree,Disagree,,,,
+20,Female,vegetarian,Yes,Yes,No,Maybe,Yes,Disagree,Disagree,Strongly disagree,Taste,4,,
+21,Female,vegetarian,Yes,Yes,No,No,No,Agree,Disagree,Strongly agree,,,Family habits,Yes
+20,Female,vegetarian,Yes,Yes,Yes,Maybe,Yes,Agree,Agree,Strongly disagree,,,"I don't harm animals, For a better health",Yes
+20,Female,vegetarian,No,No,Yes,No,No,Disagree,Agree,Disagree,Taste,5,,
+21,Female,non-vegetarian,No,Yes,No,No,No,Agree,Disagree,Strongly disagree,"Taste, Family habits",2,,
+20,Female,vegetarian,Yes,Yes,No,No,Yes,Agree,Agree,Agree,Family habits,2,,
+20,Female,vegan,No,Yes,Yes,No,No,Agree,Agree,Strongly disagree,It is healthy ,2,,
+20,Female,vegetarian,Yes,Yes,No,No,No,Agree,Disagree,Disagree,Taste,1,,
+20,Female,non-vegetarian,No,Yes,No,No,No,Strongly agree,Strongly Disagree,Agree,"Taste, Family habits",2,,
+20,Female,non-vegetarian,No,Yes,Yes,No,No,Agree,Agree,Agree,Taste,3,,
+20,Female,non-vegetarian,Yes,Yes,No,No,No,Agree,Disagree,Strongly agree,Taste,1,,
+19,Female,non-vegetarian,Yes,Yes,Yes,No,No,Strongly agree,Disagree,Strongly agree,"Taste, Family habits",2,,
+19,Female,non-vegetarian,Yes,No,Yes,No,No,Strongly agree,Agree,Agree,"Taste, Family habits",2,,
+20,Female,non-vegetarian,Yes,Yes,Yes,Maybe,Yes,Agree,Disagree,Strongly agree,Taste,4,,
+20,Female,vegetarian,Yes,Yes,Yes,Maybe,No,Agree,Agree,Disagree,"Taste, Family habits",3,,
+45,Male,non-vegetarian,Yes,No,Yes,Maybe,No,Disagree,Strongly agree,Strongly disagree,Taste,4,,
+43,Female,non-vegetarian,Yes,No,Yes,Maybe,No,Agree,Strongly agree,Strongly disagree,Family habits,3,,
+20,Female,vegetarian,No,Yes,No,Maybe,Yes,Strongly agree,Strongly agree,Strongly agree,,,Family habits,Yes
+20,Female,vegetarian,No,Yes,No,Maybe,Yes,Strongly agree,Strongly agree,Strongly agree,,,Family habits,Yes
+20,Female,vegetarian,No,Yes,No,Maybe,Yes,Strongly agree,Strongly agree,Strongly agree,,,Family habits,Yes
+20,Male,vegetarian,Yes,No,Yes,Maybe,No,Strongly agree,Agree,Strongly disagree,Family habits,1,For a better health,Yes
+23,Male,vegetarian,Yes,Yes,Yes,Maybe,No,Agree,Agree,Agree,Taste,2,,
+15,Female,vegetarian,No,Yes,No,No,No,Agree,Strongly agree,Disagree,,,"For a better health, Family habits",No
+23,Male,non-vegetarian,Yes,No,Yes,Maybe,Yes,Agree,Agree,Disagree,Weight-gain,4,Family habits,Yes
+23,Female,vegetarian,No,Yes,Yes,No,No,Agree,Agree,Disagree,Weight-gain,2,,
+20,Male,non-vegetarian,No,No,Yes,No,No,Agree,Agree,Disagree,Family habits,2,,
+20,Male,non-vegetarian,Yes,Yes,Yes,No,No,Strongly agree,Strongly Disagree,Strongly agree,Taste,4,,Yes
+38,Female,vegetarian,No,Yes,Yes,Yes,No,Strongly agree,Strongly agree,Strongly disagree,,,"I don't harm animals, For a better health",No
+20,Female,non-vegetarian,Yes,No,Yes,Yes,No,Agree,Agree,Disagree,Family habits,1,,Yes
+20,Male,,Yes,Yes,Yes,Yes,No,Agree,Agree,Strongly disagree,Taste,3,,
+20,Male,,Yes,No,Yes,Maybe,No,Strongly agree,Strongly agree,Strongly agree,,,,
+20,Male,vegetarian,Yes,No,Yes,Maybe,No,Agree,Agree,Agree,,,,
+23,Female,vegetarian,No,Yes,Yes,No,No,Agree,Agree,Disagree,Weight-gain,2,,
+20,Male,non-vegetarian,Yes,Yes,Yes,Maybe,No,Agree,Disagree,Disagree,Taste,5,,
+20,Male,non-vegetarian,Yes,Yes,Yes,No,No,Strongly agree,Strongly Disagree,Disagree,Taste,3,,
+20,Male,non-vegetarian,Yes,Yes,Yes,No,No,Strongly Disagree,Strongly Disagree,Strongly agree,,5,,
